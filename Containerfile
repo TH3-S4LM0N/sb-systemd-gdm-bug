@@ -1,4 +1,4 @@
-FROM quay.io/fedora-ostree-desktops/silverblue:37.20230118.0.a4bd7c6a
+FROM quay.io/fedora-ostree-desktops/silverblue:37.20230204.0.dff56d8f
 
 RUN systemctl disable gdm
 
